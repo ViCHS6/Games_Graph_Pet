@@ -22,3 +22,4 @@ struct Game: Identifiable, Codable, Hashable {
         case dropped
     }
 }
+
