@@ -1,3 +1,0 @@
-func HUI() {
-    print("HUI😘")
-}
